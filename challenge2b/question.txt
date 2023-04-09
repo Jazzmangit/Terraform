@@ -1,0 +1,4 @@
+create a db sever, output the private ip
+create a web sever
+create elastic ip for the web server
+create security group for the web server and open port 80, 443 (http, https)
